@@ -1,5 +1,5 @@
 #Caching Inverse Matrix Assignment 
-#Clarin, Bienvenido 
+#R Programming Assignment 
 #April 26th, 2015
 
 #Note that caching mean of a vector was used to complete this assignment. 
